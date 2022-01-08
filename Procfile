@@ -1,1 +1,3 @@
-web: sh setup.sh && streamlit run bankruptcy.py
+ web: sh setup.sh && streamlit run bankruptcy.py
+ 
+ 
